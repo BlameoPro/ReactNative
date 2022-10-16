@@ -43,3 +43,18 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
   - Click vào **Edit**
   - Cick vào **New**
   - Thêm đường dẫn *%LOCALAPPDATA%\Android\Sdk\platform-tools* vào và lưu lại.
+
+- Step 3: Sau khi hoàn thành các bước xong, tiến hành tạo máy ảo.
+  - ![image](https://user-images.githubusercontent.com/115060017/196033491-be0adb3b-0643-4dc2-af98-80ba93c63672.png)
+  - Mặc định nó sẽ tạo sẵn cho 1 device, có thể select vào device đó và nhấn start để chạy máy ảo.
+  - ![image](https://user-images.githubusercontent.com/115060017/196033526-30cf36dd-ae30-47c1-807c-c953a8a0e87d.png)
+  - Để tạo device mới, click vào **Create device** sau đó sẽ hiện ra một cửa sổ cho phép chọn thông tin để tạo device.
+  - ![image](https://user-images.githubusercontent.com/115060017/196033559-b69ecca2-32bc-4c4f-9443-52f10000af75.png)
+  - Sau khi chọn device thành công, bấm **Next** để chuyển sang cửa sổ chọn hệ điều hành, lưu ý, nếu hệ điều hành chưa được tải xuống thì bấm tải sau đó select và next.
+  - ![image](https://user-images.githubusercontent.com/115060017/196033606-254a3746-2337-4b66-a95c-5c2ff170be5c.png)
+  - Cuối cùng sau khi next sẽ hiện ra cửa sổ của màn hình sửa tên thiết bị + thông số và confirm. 
+  - ![image](https://user-images.githubusercontent.com/115060017/196033676-0d716c36-46ec-4eff-ace7-d708cd552779.png)
+  - Sau khi tạo thành công và chạy lại sẽ ra kết quả như sau:
+  - ![image](https://user-images.githubusercontent.com/115060017/196033754-fbb76e97-e105-47e8-a18f-fa4517e28477.png)
+
+
